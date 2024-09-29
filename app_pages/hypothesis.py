@@ -38,7 +38,7 @@ its performance on the test set.
 ''')
 
     st.success('''
-**Conclusion:** The best model, v7, achieved a test accuracy of approximately 71%.
+**Conclusion:** The best model, v7, achieved a test accuracy of 70.1%.
 ''')
 
     st.write('---')
